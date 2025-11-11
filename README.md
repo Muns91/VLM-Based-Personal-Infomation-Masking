@@ -11,6 +11,6 @@
 
 # 데이터 출처
 
-데이터는 아래 AI hub 홈페이지 링크를 통해서 얻으실 수 있습니다. (이 페이지에서는 문서에 대한 OCR JSON은 제공하지 않습니다.)
+데이터는 아래 AI hub 홈페이지 링크를 통해서 얻으실 수 있습니다. (Code에서 사용된 OCR 정보는 AI HUB 에서 제공되는 것과 다름을 알려드립니다.)
 
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71301
