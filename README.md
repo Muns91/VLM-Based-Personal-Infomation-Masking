@@ -1,4 +1,4 @@
-# AI Masking
+# VLM Based Personal Infomation Masking
 
 <img width="7243" height="3364" alt="그림4" src="https://github.com/user-attachments/assets/2f6c8303-195a-4d6e-8721-d0fa6fef024b" />
 
