@@ -3,7 +3,7 @@
 <img width="7243" height="3364" alt="그림4" src="https://github.com/user-attachments/assets/2f6c8303-195a-4d6e-8721-d0fa6fef024b" />
 
 
-## 본 프로젝트는 VLM과 NER을 활용한 문서 내 정보 마스킹을 위해 진행되었습니다.
+## 본 프로젝트는 VLM과 NER을 활용하여 문서 내 정보 마스킹을 수행하였습니다.
 # 소개
 
 1. 사용 언어 : Python
